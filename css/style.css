@@ -166,7 +166,7 @@ header {
   display: inline-block;
   width: 16.6666;
   margin: 0;
-  padding: 22px 0;
+  padding: 0 22px;
   text-transform: uppercase;
   color: black;
   text-align: center;
