@@ -164,9 +164,9 @@ header {
 
 #navbar nav a {
   display: inline-block;
-  width: 16.6666;
+  width: 16.6666%;
   margin: 0;
-  padding: ;
+  padding: 22px 0;
   text-transform: uppercase;
   color: black;
   text-align: center;
